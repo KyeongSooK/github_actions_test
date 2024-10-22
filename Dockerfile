@@ -8,4 +8,4 @@ COPY . /workspace
 
 RUN mkdir -p /tmp
 
-ENTRYPOINT [ "python3" ]
+ENTRYPOINT [ "python3", "hello.py" ]
