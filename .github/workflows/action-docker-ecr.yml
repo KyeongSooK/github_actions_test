@@ -9,7 +9,7 @@ on:
       
 env:
   AWS_REGION: ap-northeast-2
-  ECR_REPOSITORY: test-repository # 나의 AWS ECR repository name 
+  ECR_REPOSITORY: test-test123 # 나의 AWS ECR repository name 
   
 
 jobs:
